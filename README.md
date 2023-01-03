@@ -14,6 +14,7 @@
 2. https://www.sanfoundry.com/artificial-intelligence-mcqs-machine-learning/
 3. https://www.interviewbit.com/machine-learning-mcq/
 4. https://www.javatpoint.com/data-mining-mcq
+5. https://www.studytonight.com/pandas/
 
 
 ### Guidance: 
